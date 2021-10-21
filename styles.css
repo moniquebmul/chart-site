@@ -1,0 +1,9 @@
+body
+  {background-color: #e7dada;
+
+  }
+
+  div#main
+  {max-width: 700px;
+  margin: 0 auto;
+}

@@ -1,9 +1,11 @@
 body
-  {background-color: #e7dada;
+  {background-color: #e7dada;}
 
-  }
+h1 {font-family: 'Rubik', sans-serif;}
+
+
 
   div#main
-  {max-width: 700px;
+  {max-width: 800px;
   margin: 0 auto;
 }
